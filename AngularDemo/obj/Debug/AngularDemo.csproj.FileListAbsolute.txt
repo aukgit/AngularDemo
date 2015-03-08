@@ -4,3 +4,9 @@ C:\Users\Alim.Alim-PC\Documents\GitHub\AngularDemo\AngularDemo\bin\AngularDemo.p
 C:\Users\Alim.Alim-PC\Documents\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
 C:\Users\Alim.Alim-PC\Documents\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
 C:\Users\Alim.Alim-PC\Documents\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
+E:\Working\GitHub\AngularDemo\AngularDemo\bin\AngularDemo.dll.config
+E:\Working\GitHub\AngularDemo\AngularDemo\bin\AngularDemo.dll
+E:\Working\GitHub\AngularDemo\AngularDemo\bin\AngularDemo.pdb
+E:\Working\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.csprojResolveAssemblyReference.cache
+E:\Working\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.dll
+E:\Working\GitHub\AngularDemo\AngularDemo\obj\Debug\AngularDemo.pdb
