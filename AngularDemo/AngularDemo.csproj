@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.html" />
+    <Content Include="ScriptsCustoms\ControllerArtist.js" />
     <Content Include="ScriptsCustoms\Controller.js" />
     <Content Include="Scripts\version.json" />
     <Content Include="Scripts\errors.json" />
